@@ -8,16 +8,16 @@ This GitHub hosts a collection of my academic projects, personal tools, and hobb
 
 ## 🧠 Featured Projects
 
-### 🔹 [Predicting Credit Card Defaults](https://github.com/Ehsian/Credit-Card-Default-Classifier)
+### 🔹 [Predicting Credit Card Defaults](https://github.com/Ehsian/Predicting-Credit-Card-Defaults)
 Machine learning project using Python and Scikit-learn to predict credit card defaults. Includes preprocessing pipeline, model tuning, and performance evaluation across decision trees, k-NN, SVM, and random forests.
 
-### 🔹 [Diabetes Logistic Regression Classifier (STAT 301)](https://github.com/Ehsian/Stat301-Diabetes-Classifier)
+### 🔹 [Diabetes Logistic Regression Classifier (STAT 301)](https://github.com/Ehsian/STAT301-Research-Paper)
 Statistical research project in R using logistic regression, AIC-based feature selection, and clinical EDA to identify predictors of diabetes mellitus.
 
-### 🔹 [Education and Gender Impact on Salary (STAT 201)](https://github.com/Ehsian/Stat201-Education-Gender-Income)
+### 🔹 [Education and Gender Impact on Salary (STAT 201)](https://github.com/Ehsian/STAT201-Research-Paper)
 Exploratory data analysis using bootstrapped confidence intervals and Z-tests to assess income disparities using U.S. census data.
 
-### 🔹 [Titanic Survival Classifier (DSCI 100)](https://github.com/Ehsian/DSCI100-Titanic-Survival)
+### 🔹 [Titanic Survival Classifier (DSCI 100)](https://github.com/Ehsian/DSCI100-Research-Paper)
 Intro-level classification project using R and tidyverse/tidymodels to model Titanic passenger survival based on demographic and ticket data.
 
 ---
