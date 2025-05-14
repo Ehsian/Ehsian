@@ -25,10 +25,10 @@ Intro-level classification project using R and tidyverse/tidymodels to model Tit
 ## 🧩 Side Projects
 
 ### ♟️ [ChessPuzzleEditor](https://github.com/Ehsian/ChessPuzzleEditor)
-A web-based interface for composing and editing chess puzzles, built with JavaScript and custom board logic.
+A web-based interface for composing and editing chess puzzles, featuring a Java Swing GUI, a CLI, and custom board logic implemented in Java.
 
 ### 🤖 [BoardBot](https://github.com/Ehsian/BoardBot)
-A lightweight Discord bot supporting battleship, rock-paper-scissors, and more — built in Python with basic command handling and persistent state.
+A lightweight Discord bot supporting multiplayer battleship, rock-paper-scissors, and more — built using Java & JDA with basic command handling and persistent state.
 
 ---
 
